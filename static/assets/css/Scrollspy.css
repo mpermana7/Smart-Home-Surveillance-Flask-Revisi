@@ -1,0 +1,41 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+a {
+  color: #cb0c9f;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #830866;
+  text-decoration: none;
+}
+
+a {
+  letter-spacing: -0.025rem;
+  color: #000;
+}
+
+a {
+  color: #cb0c9f;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #830866;
+}
+
+html * {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  letter-spacing: -.025rem;
+  color: #000;
+}
+
